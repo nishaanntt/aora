@@ -31,3 +31,5 @@ Built with React Native for seamless user experiences, Animatable for captivatin
 **Profile Screen**: View account details and activity, including uploaded videos and follower count, for a personalised experience.
 
 **Animations**: Dynamic animations using Animatable library to enhance user interaction and engagement.
+
+## Screenshots
