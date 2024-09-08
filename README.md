@@ -34,4 +34,30 @@ Built with React Native for seamless user experiences, Animatable for captivatin
 
 ## Screenshots
 
+### Onboarding Screen
+
 ![Onboarding Screen](screenshots/OnboardingScreen.png?raw=true 'Onboarding Screen')
+
+### Login Screen
+
+![Login Screen](screenshots/LoginScreen.png?raw=true 'Login Screen')
+
+### Signup Screen
+
+![Signup Screen](screenshots/RegisterScreen.png?raw=true 'Signup Screen')
+
+### Dashboard
+
+![Dashboard](screenshots/Dashboard.png?raw=true 'Dashboard')
+
+### Upload Screen
+
+![Upload Screen](screenshots/Upload.png?raw=true 'Upload Screen')
+
+### Profile Screen
+
+![Profile Screen](screenshots/Profile.png?raw=true 'Profile Screen')
+
+### Search Screen
+
+![Search Screen](screenshots/Search.png?raw=true 'Search Screen')
