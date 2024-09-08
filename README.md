@@ -33,3 +33,5 @@ Built with React Native for seamless user experiences, Animatable for captivatin
 **Animations**: Dynamic animations using Animatable library to enhance user interaction and engagement.
 
 ## Screenshots
+
+![Onboarding Screen](screenshots/OnboardingScreen.png?raw=true 'Onboarding Screen')
