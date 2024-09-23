@@ -26,7 +26,7 @@ Built with React Native for seamless user experiences, Animatable for captivatin
 
 **Tab Navigation**: Navigate between sections like Home, Profile and a Create screen with ease using tab navigation.
 
-\*_Post Creation Screen for Uploading Media_: Upload video posts and image thumbnails directly from the app with integrated media selection.
+**Post Creation Screen for Uploading Media**: Upload video posts and image thumbnails directly from the app with integrated media selection.
 
 **Profile Screen**: View account details and activity, including uploaded videos and follower count, for a personalised experience.
 
